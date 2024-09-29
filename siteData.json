@@ -7,9 +7,9 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
-        "boon-hsuan": "Boon Hsuan",
-        "jane-doe": "Jane Doe",
-        "johnny-doe": "Johnny Doe",
+        "boon-hsuan-is-a-weeb": "Boon Hsuan is a weeb",
+        "zee": "Zee",
+        "chong-yi": "Chong Yi",
         "jean-doe": "Jean Doe",
         "james-doe": "James Doe"
       },
@@ -141,10 +141,23 @@
       "headingKeywords": {}
     },
     {
+      "src": "team/chongyi.md",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
       "src": "team/johndoe.md",
       "title": "John Doe's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/zee.md",
+      "title": "Zee's Project Portfolio Page",
+      "headings": {
+        "project-tahub-contacts": "Project: TAHub Contacts"
       },
       "headingKeywords": {}
     }
