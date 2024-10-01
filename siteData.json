@@ -10,7 +10,7 @@
         "boon-hsuan": "Boon Hsuan",
         "zee": "Zee",
         "chong-yi": "Chong Yi",
-        "jean-doe": "Jean Doe",
+        "maximus-tan": "Maximus Tan",
         "james-doe": "James Doe"
       },
       "headingKeywords": {}
@@ -151,6 +151,11 @@
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
       },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/maximus.md",
+      "headings": {},
       "headingKeywords": {}
     },
     {
