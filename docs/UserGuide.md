@@ -67,7 +67,7 @@ student contact details!
 ## Quick start :rocket:
 
 1. Ensure you have Java `17` or above installed in your Computer.
-2. Download the latest `.jar` file from [here](https://github.com/se-edu/addressbook-level3/releases).
+2. Download the latest `.jar` file from [here](https://github.com/AY2425S1-CS2103T-F14B-2/tp/releases/tag/v1.5.1).
 3. Copy the file to the folder you want to use as the *home folder* for your AddressBook.
    - Make sure that this folder is **empty**.
 4. Open a command terminal
